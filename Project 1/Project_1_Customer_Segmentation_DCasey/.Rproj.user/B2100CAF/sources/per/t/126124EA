@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1663256256421.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2258397777",
+    "id" : "126124EA",
+    "lastKnownWriteTime" : 1663256285,
+    "last_content_update" : 1663256285653,
+    "path" : "~/GitHub/DSC680/Project 1/Project_1_Customer_Segmentation_DCasey/Project_1_Customer_Segmentation_DCasey.R",
+    "project_path" : "Project_1_Customer_Segmentation_DCasey.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
