@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1663256498173.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD0891F2",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1663256498173,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "39615D7",
+        "caption" : "segmentation_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=segmentation_data&cache_key=39615D7",
+        "displayedObservations" : "200",
+        "environment" : "",
+        "object" : "segmentation_data",
+        "preview" : "0",
+        "totalObservations" : "200",
+        "variables" : "5"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
